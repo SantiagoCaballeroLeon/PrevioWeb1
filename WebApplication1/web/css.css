@@ -13,6 +13,9 @@ and open the template in the editor.
 .main-two {
             column-count:3;
         }
+.main-three {
+            column-count:3;
+        }
 .table {
 	width: 50%;
 	height: 300px;
